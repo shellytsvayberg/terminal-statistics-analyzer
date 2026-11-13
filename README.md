@@ -28,7 +28,7 @@ Make sure you have a C compiler installed.
 1. Clone this repository:
 
    ```bash
-   git clone git clone https://github.com/shellytsvayberg/terminal-statistics-analyzer.git
+   git clone https://github.com/shellytsvayberg/terminal-statistics-analyzer.git
    ```
 
 2. Navigate into the project directory:
